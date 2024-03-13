@@ -1,0 +1,22 @@
+<mxfile host="app.diagrams.net" modified="2023-11-28T08:42:09.435Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="iyn_rwqYunD6jnE4_6Y-" version="22.1.4" type="device">
+  <diagram name="Page-1" id="4BZLmeIYfqPCVJNSOLpn">
+    <mxGraphModel dx="1050" dy="566" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ChAuTA2OoNkCsq4i4LHt-1" value="Node" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="180" width="160" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="ChAuTA2OoNkCsq4i4LHt-2" value="+Id&lt;br&gt;+Name&lt;br&gt;+SuccessOutputId&lt;br&gt;+SuccessOutputId&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;+Config" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="ChAuTA2OoNkCsq4i4LHt-1">
+          <mxGeometry y="50" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ChAuTA2OoNkCsq4i4LHt-3" value="Script" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="320" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ChAuTA2OoNkCsq4i4LHt-4" value="+Attribute1&#xa;+Attribute2&#xa;+Attribute3" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="ChAuTA2OoNkCsq4i4LHt-3">
+          <mxGeometry y="50" width="160" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

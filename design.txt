@@ -1,0 +1,19 @@
+Random click:
+- Click auto element inside a list
+- Add exceptedList in data for option not choosing the repeated element
+
+Scroll:
+- Scroll into an element within how much time
+- Scroll into the bottom of the page within how much time
+- Scroll by pixel within how much time
+
+Selector:
+- Check selector by BE
+- Selector editor: add a pair of sign, add color for difference
+
+Hover element
+
+Iterative click
+
+New tab, go to url, close tab, reload, go to tab
+
